@@ -26,7 +26,7 @@ class Mago:
             print(self.nombre, "Se realizo un ataque a ", conflicto.nombre)
             print("Daño realizado ", self.daño)
             print(" vida  ", self.poder)
-            print(" ", self.mana)
+            print("a ", self.mana)
 
 
 
